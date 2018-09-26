@@ -6,7 +6,7 @@ import (
 
 )
 
-var store = sessions.NewCookieStore([]byte("xes-something-very-secret"))
+var Store = sessions.NewCookieStore([]byte("xes-something-very-secret"))
 
 
 

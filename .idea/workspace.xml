@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d81370b-53b9-489b-a54c-19a5e0e8d307" name="Default Changelist" comment="" />
+    <list default="true" id="1d81370b-53b9-489b-a54c-19a5e0e8d307" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sessiontest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sessiontest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checklogin.go" beforeDir="false" afterPath="$PROJECT_DIR$/checklogin.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.go" beforeDir="false" afterPath="$PROJECT_DIR$/login.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logout.go" beforeDir="false" afterPath="$PROJECT_DIR$/logout.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sessiontest" beforeDir="false" afterPath="$PROJECT_DIR$/sessiontest" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,54 +22,55 @@
     <session id="-222744904">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="go" value="6" />
+          <entry key="go" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Go" value="6" />
+          <entry key="Go" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="295" />
+          <entry key="go" value="588" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="295" />
+          <entry key="Go" value="588" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.go.postfix.template.usages.trigger">
+        <counts>
+          <entry key=".println" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-              <folding>
-                <element signature="e#14#102#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="275">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/checklogin.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-              <folding>
-                <element signature="e#14#73#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="550">
+              <caret line="27" column="67" selection-start-line="27" selection-start-column="67" selection-end-line="27" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -68,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/logout.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -76,8 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state relative-caret-position="600">
+              <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
               <folding>
                 <element signature="e#14#64#0" expanded="true" />
               </folding>
@@ -95,6 +106,9 @@
     </option>
   </component>
   <component name="GOROOT" path="D:/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="urls">
       <list>
@@ -107,10 +121,10 @@
       <list>
         <option value="$PROJECT_DIR$/ses1.go" />
         <option value="$PROJECT_DIR$/sessiontest.go" />
-        <option value="$PROJECT_DIR$/checklogin.go" />
+        <option value="$PROJECT_DIR$/main.go" />
         <option value="$PROJECT_DIR$/logout.go" />
         <option value="$PROJECT_DIR$/login.go" />
-        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/checklogin.go" />
       </list>
     </option>
   </component>
@@ -120,12 +134,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="128" />
     <option name="y" value="47" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -174,11 +189,11 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18123667" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
@@ -207,20 +222,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ses1.go">
+    <entry file="file://$PROJECT_DIR$/ses1.go" />
+    <entry file="file://$PROJECT_DIR$/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-          <folding>
-            <element signature="e#14#108#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="275">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/login.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state relative-caret-position="600">
+          <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
           <folding>
             <element signature="e#14#64#0" expanded="true" />
           </folding>
@@ -230,27 +243,14 @@
     <entry file="file://$PROJECT_DIR$/logout.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/checklogin.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#14#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          <folding>
-            <element signature="e#14#102#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="550">
+          <caret line="27" column="67" selection-start-line="27" selection-start-column="67" selection-end-line="27" selection-end-column="67" />
         </state>
       </provider>
     </entry>
